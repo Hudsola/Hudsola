@@ -2,5 +2,5 @@
 - 👀 I’m interested in Dev backend
 - 🌱 I’m currently learning C, java
 - 💞️ I'm looking to collaborate as an intern remotely
-- 👫 He/she
+- 👫 He/his
 - PT/BR
