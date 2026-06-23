@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/Hudsola">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsola&layout=compact&langs_count=7&theme=dracula"/>
+  ![Hudsola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsola&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
     
   <div style="display: inline_block" align="center"><br>
