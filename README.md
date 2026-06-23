@@ -12,7 +12,6 @@
 
 💬 Find me on <a href="https://www.linkedin.com/in/hudson-mendes-22605020a/" rel="nofollow">LinkedIn</a>
 
-😄 Pronouns: He/Him
 </div>
 <div align="center">
   <a href="https://github.com/Hudsola">
