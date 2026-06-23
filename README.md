@@ -15,9 +15,9 @@
 😄 Pronouns: He/Him
 </div>
 <div align="center">
-  <a href="https://github.com/MateusSouzaAlves">
+  <a href="https://github.com/Hudsola">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsola&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsola&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
   <div style="display: inline_block" align="center"><br>
